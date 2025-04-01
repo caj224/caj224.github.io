@@ -46,15 +46,13 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+I'm passionate about applying mathematics, programming, and data analysis to financial markets. My goal is to contribute to a dynamic quantitative trading team where I can develop and deploy data-driven strategies, explore market inefficiencies, and continuously learn from ever-evolving market behavior. I’m particularly drawn to the intersection of statistics, machine learning, and real-time decision-making, and I’m eager to grow into a role where research and execution go hand-in-hand.
 
 ---
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+I've logged over 200 hours in live low-stakes cash games with a win rate above 10 big blinds per hour, backed by focused study and disciplined play. In online chess, I’ve reached a 2200 rating by consistently refining my calculation and pattern recognition. Both games challenge me to make high-quality decisions under pressure—something I enjoy and value in competitive environments like trading.
 
 
 
