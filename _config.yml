@@ -1,9 +1,7 @@
-title: John Doe # your name (or website title) here
+title: Caleb Johnson # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Edit these links below   
-  <br>
-  in _config.yml 
+ 
   <br><br>
   <a href="https://www.linkedin.com/in/donbowen-lehigh/">LinkedIn</a> 
   <br>
@@ -11,10 +9,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://bowen.finance/" class="btn btn--info">Portfolio</a>  
   <br>
-  <a href="https://www.GitHub.com/donbowen/">GitHub</a>  
+  <a href="https://www.GitHub.com/caj224/">GitHub</a>  
   <br>
-  <a href="https://www.GitHub.com/donbowen/">Twitter</a>  
+  <a href="https://www.GitHub.com/caj224/">Twitter</a>  
   <br>
-  <a href="https://www.GitHub.com/donbowen/">Youtube</a> 
+  <a href="https://www.GitHub.com/caj224/">Youtube</a> 
   
 theme: jekyll-theme-minimal
