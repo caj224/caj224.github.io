@@ -1,6 +1,6 @@
 ## About Me
 
-What's up? hey\|you
+What's up? 
 
 I am an awesome student at Lehigh, you should hire me!
 
@@ -55,6 +55,8 @@ Sell yourself!
 ## Hobbies
 
 Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+
+
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
