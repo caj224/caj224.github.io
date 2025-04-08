@@ -5,7 +5,7 @@ I'm Caleb, a quantitative finance student with a strong interest in markets, dat
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/caj224/caj224.github.io/raw/master/images/IMG_9633.JPEG" width="50%">
+  <img class="img-circle" src="https://github.com/caj224/caj224.github.io/raw/master/images/IMG_9633.jpg" width="50%">
 </p>
 
 ---
