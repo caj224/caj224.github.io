@@ -52,7 +52,7 @@ I'm passionate about applying mathematics, programming, and data analysis to fin
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img class="img-circle" src="https://github.com/caj224/caj224.github.io/raw/master/images/IMG_0766.HEIC" width="25%">
-  <img class="img-circle" src="https://github.com/caj224/caj224.github.io/raw/master/images/IMG_1051 2.HEIC" width="25%">
+  <img class="img-circle" src="https://github.com/caj224/caj224.github.io/raw/master/images/IMG_1051 2.HEIC" width="35%">
   <img class="img-circle" src="https://github.com/caj224/caj224.github.io/raw/master/images/IMG_1613%202.HEIC" width="25%">
 </div>
 
