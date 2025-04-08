@@ -1,8 +1,6 @@
 ## About Me
 
-What's up? 
-
-I am an awesome student at Lehigh, you should hire me!
+I'm Caleb, a driven and detail-oriented student with a strong foundation in quantitative finance, data analysis, and financial modeling. Currently pursuing a career as a fixed income quant analyst, I combine technical expertise with a deep curiosity for markets and strategy. My work spans everything from time series forecasting and algorithmic trading research to hands-on experience in financial analytics. I’m passionate about bridging the gap between complex data and actionable insight.
 
 <!-- Upload your own photo and change the path -->
 
