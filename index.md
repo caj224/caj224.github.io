@@ -1,6 +1,6 @@
 ## About Me
 
-I'm Caleb, a driven and detail-oriented student with a strong foundation in quantitative finance, data analysis, and financial modeling. Currently pursuing a career as a fixed income quant analyst, I combine technical expertise with a deep curiosity for markets and strategy. My work spans everything from time series forecasting and algorithmic trading research to hands-on experience in financial analytics. I’m passionate about bridging the gap between complex data and actionable insight.
+I'm Caleb, a quantitative finance student with a strong interest in markets, data, and emerging technologies. I’m currently a Quantitative Analyst Intern at Chatham Financial, where I support fixed income and risk management strategies through data-driven analysis. Outside of my internship, I’m actively working on a research project exploring price dynamics and detection mechanisms within pump-and-dump schemes on the Solana blockchain — combining my interests in crypto, market microstructure, and time series modeling. I’m passionate about building tools and strategies that turn complex data into actionable insights.
 
 <!-- Upload your own photo and change the path -->
 
@@ -50,7 +50,7 @@ I'm passionate about applying mathematics, programming, and data analysis to fin
 
 ## Hobbies
 
-I've logged over 200 hours in live low-stakes cash games with a win rate above 10 big blinds per hour, backed by focused study and disciplined play. In online chess, I’ve reached a 2200 rating by consistently refining my calculation and pattern recognition. Both games challenge me to make high-quality decisions under pressure—something I enjoy and value in competitive environments like trading.
+I've logged over 200 hours in live low-stakes cash games with a win rate above 10 big blinds per hour, backed by focused study and disciplined play. In online chess, I’ve reached a 2200 rating by consistently refining my calculation and pattern recognition. Both games challenge me to make high-quality decisions under pressure—something I enjoy and value in competitive environments like trading. When I'm not using my right brain, I am probably playing jazz trumpet, tending to my saltwater reef aquarium, or watching NBA basketball.
 
 
 
