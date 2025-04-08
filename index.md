@@ -50,6 +50,15 @@ I'm passionate about applying mathematics, programming, and data analysis to fin
 
 ## Hobbies
 
+<p style="text-align:center;">
+  <img class="img-circle" src="https://github.com/caj224/caj224.github.io/raw/master/images/IMG_0766.HEIC" width="25%">
+</p>
+<p style="text-align:center;">
+  <img class="img-circle" src="https://github.com/caj224/caj224.github.io/raw/master/images/IMG_1051.HEIC" width="25%">
+</p>
+<p style="text-align:center;">
+  <img class="img-circle" src="https://github.com/caj224/caj224.github.io/raw/master/images/IMG_1613 2.HEIC" width="25%">
+</p>
 I've logged over 200 hours in live low-stakes cash games with a win rate above 10 big blinds per hour, backed by focused study and disciplined play. In online chess, I’ve reached a 2200 rating by consistently refining my calculation and pattern recognition. Both games challenge me to make high-quality decisions under pressure—something I enjoy and value in competitive environments like trading. When I'm not using my right brain, I am probably playing jazz trumpet, tending to my saltwater reef aquarium, or watching NBA basketball.
 
 
