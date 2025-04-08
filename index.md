@@ -5,7 +5,7 @@ I'm Caleb, a driven and detail-oriented student with a strong foundation in quan
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/caj224/caj224.github.io/raw/master/images/IMG_9633.JPEG" width="10%">
+  <img class="img-circle" src="https://github.com/caj224/caj224.github.io/raw/master/images/IMG_9633.JPEG" width="50%">
 </p>
 
 ---
