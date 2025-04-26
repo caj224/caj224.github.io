@@ -1,6 +1,6 @@
 ## About Me
 
-I'm Caleb, a quantitative finance student with a strong interest in markets, data, and emerging technologies. I’m currently a Quantitative Analyst Intern at Chatham Financial, where I support fixed income and risk management strategies through data-driven analysis. Outside of my internship, I’m actively working on a research project exploring price dynamics and detection mechanisms within pump-and-dump schemes on the Solana blockchain — combining my interests in crypto, market microstructure, and time series modeling. I’m passionate about building tools and strategies that turn complex data into actionable insights.
+I'm Caleb, a Financial Engineering Master's student at Lehigh University. I’m currently a Quantitative Analyst Intern at Chatham Financial, where I support fixed income and risk management strategies through data-driven analysis. Outside of my internship, I’m actively working on a research project exploring price dynamics and detection mechanisms within pump-and-dump schemes on the Solana blockchain — combining my interests in crypto, data mining, and coding. I’m passionate about building tools and strategies that turn complex data into actionable insights.
 
 <!-- Upload your own photo and change the path -->
 
@@ -57,7 +57,7 @@ I'm passionate about applying mathematics, programming, and data analysis to fin
   <img class="img-circle" src="https://github.com/caj224/caj224.github.io/raw/master/images/IMG_1613%202.HEIC" width="25%">
 </div>
 
-I've logged over 200 hours in live low-stakes cash games with a win rate above 10 big blinds per hour, backed by focused study and disciplined play. In online chess, I’ve reached a 2200 rating by consistently refining my calculation and pattern recognition. Both games challenge me to make high-quality decisions under pressure—something I enjoy and value in competitive environments like trading. When I'm not using my right brain, I am probably playing jazz trumpet, tending to my saltwater reef aquarium, or watching NBA basketball.
+Outside of of school, I like to spend my time thinking strategically and competitively. I've logged over 200 hours in live low-stakes cash games with a win rate above 10 big blinds per hour, backed by focused study and disciplined play. In online chess, I’ve reached a 2200 rating by consistently refining my calculation and pattern recognition. Both games challenge me to make high-quality decisions under pressure—something I enjoy and value in competitive environments like trading. When I'm not using my right brain, I am probably playing jazz trumpet, tending to my saltwater reef aquarium, or watching NBA basketball.
 
 
 
