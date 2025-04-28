@@ -14,7 +14,8 @@ I'm Caleb, a Financial Engineering Master's student at Lehigh University. I’m 
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](https://github.com/caj224/caj224.github.io/report-2.ipynb)**_
+_**[Natural language processing 10-Ks to identify risks](https://github.com/caj224/caj224.github.io/blob/master/report-2.ipynb)**
+
 
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
