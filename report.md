@@ -1,3 +1,7 @@
+ ---
+ layout: wide_default
+ ---  
+
 # Summary Section
 
 This project examines how sentiment exhibited in 10-K filings affects stock returns. Data used is 2022 S&P 500 data, ML and LM sentiment dictionaries, and chosen word lists about natural disasters, politics, and time off from work. Sentiment was shown to not significantly affect returns, while positive and negative sentiment about politics and natural disasters showed larger correlations with returns. 
@@ -12,11 +16,9 @@ This project used data from S&P500 firms, including 2022 10-K filings and return
 
 The returns on the day of the 10-K filing and each of the next ten days were gathered from the crsp raw data file in github. These returns were used to create the variables 'Ret on Filing Date', 'Cumulative Ret (Filing Date + 2 days)', and 'Cumulative Ret (Filing Date + 10 days)'. Since returns are displayed as percentages, a formula is needed to calculate cumulative return:
 
-
-$$
-\text{Cumulative Return}_T = \prod_{t=1}^{T} (1 + r_t) - 1
-$$
-
+$
+\text{Cumulative Return}_T = \prod_{t=1}^T (1 + r_t) - 1
+$
 
 This was calculated for 3 and ten day periods to be examined with the sentiment variables. 
 
@@ -36,6 +38,7 @@ Each of these variables is calculated as a ratio of 'hits,' or appearances of th
 
 
 ```python
+
 import seaborn as sns
 import matplotlib.pyplot as plt
 import statsmodels.api as sm
@@ -270,7 +273,7 @@ plt.show()
 
 
     
-![png](output_4_0.png)
+![png](output_5_0.png)
     
 
 
@@ -309,11 +312,6 @@ plt.show()
 
 
     
-![png](output_5_0.png)
+![png](output_6_0.png)
     
 
-
-
-```python
-
-```
