@@ -14,7 +14,7 @@ I'm Caleb, a Financial Engineering Master's student at Lehigh University. I’m 
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](https://github.com/caj224/caj224.github.io/blob/master/report-2.ipynb)**
+**[Natural language processing 10-Ks to identify risks](https://github.com/caj224/caj224.github.io/blob/master/report-2.ipynb)**
 
 
 
@@ -38,7 +38,7 @@ _**[Eventual team project](https://chronopairs.streamlit.app)**_
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
+_**[Some personal project](/pdf/solanaproject.pdf)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
