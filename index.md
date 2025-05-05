@@ -34,7 +34,7 @@ _**[Eventual team project](https://chronopairs.streamlit.app)**_
 
 ---
 
-_**[Some personal project](/solanaproject.pdf)**_
+_**[Some personal project](solanaproject.pdf)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
