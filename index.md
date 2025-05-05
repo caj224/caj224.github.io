@@ -2,11 +2,7 @@
 
 I'm Caleb, a Financial Engineering Master's student at Lehigh University. I’m currently a Quantitative Analyst Intern at Chatham Financial, where I support fixed income and risk management strategies through data-driven analysis. Outside of my internship, I’m actively working on a research project exploring price dynamics and detection mechanisms within pump-and-dump schemes on the Solana blockchain — combining my interests in crypto, data mining, and coding. I’m passionate about building tools and strategies that turn complex data into actionable insights.
 
-<!-- Upload your own photo and change the path -->
 
-<p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/caj224/caj224.github.io/raw/master/images/IMG_9633.jpg" width="50%">
-</p>
 
 ---
 
@@ -38,7 +34,7 @@ _**[Eventual team project](https://chronopairs.streamlit.app)**_
 
 ---
 
-_**[Some personal project](/pdf/solanaproject.pdf)**_
+_**[Some personal project](/solanaproject.pdf)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
