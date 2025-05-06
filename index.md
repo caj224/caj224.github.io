@@ -20,19 +20,19 @@ This project examines how sentiment exhibited in 10-K filings affects stock retu
 
 ---
 
-_**[Regression Practice](modeling_sale_prices)**_
+_**[Machine Learning on Housing Prices](modeling_sale_prices)**_
 
 Used Machine Learning methods to estimate housing sale prices, including feature engineering, alpha parameter tuning, PCA, and regression. 
 
 ---
 
-_**[Eventual team project](https://chronopairs.streamlit.app)**_
+_**[ChronoBERT Time Series Forecasting for Pairs Trading](https://chronopairs.streamlit.app)**_
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-_**[Some personal project](solanaproject.pdf)**_
+_**[Using Data Mining to detect Pump & Dumps on Solana](solanaproject.pdf)**_
 
 
 ---
