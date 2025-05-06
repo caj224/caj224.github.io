@@ -30,11 +30,14 @@ _**[ChronoBERT Time Series Forecasting for Pairs Trading](https://chronopairs.st
 
 Our group compared ChronoBERT, BERT, and traditional regression method predicted spreads for 2019 stock pairs and used the results for pairs trading. 
 
+
 ---
 
 _**[Using Data Mining to detect Pump & Dumps on Solana](solanaproject.pdf)**_
 
 Working under the CEO of AlphaCube, Rish and I attempt to uncover inconsistencies between organic and market maker wallets, and develop an algroithm to detect pump and dumps before they happen. 
+
+
 ---
 
 ## Career Objectives
