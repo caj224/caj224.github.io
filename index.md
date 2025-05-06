@@ -12,7 +12,7 @@ I'm Caleb, a Financial Engineering Master's student at Lehigh University. I’m 
 
 **[Natural language processing 10-Ks to identify risks](report)**
 
-
+This project examines how sentiment exhibited in 10-K filings affects stock returns, using web scraping, html cleaning, pandas, matplotlib, and more.
 
 
 
@@ -34,7 +34,6 @@ _**[Eventual team project](https://chronopairs.streamlit.app)**_
 
 _**[Some personal project](solanaproject.pdf)**_
 
-<img src="images/output_6_0.png?raw=true"/>
 
 ---
 
