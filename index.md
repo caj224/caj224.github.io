@@ -14,17 +14,15 @@ I'm Caleb, a Financial Engineering Master's student at Lehigh University. I’m 
 
 
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<img src="images/output_6_0.png?raw=true"/>
 
 ---
 
 _**[Regression Practice](modeling_sale_prices)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Used Machine Learning methods to estimate housing sale prices, including feature engineering, alpha parameter tuning, PCA, and regression. 
 
 ---
 
