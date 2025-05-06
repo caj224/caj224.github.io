@@ -40,11 +40,6 @@ Working under the CEO of AlphaCube, Rish and I attempt to uncover inconsistencie
 
 ---
 
-## Career Objectives
-
-I'm passionate about applying mathematics, programming, and data analysis to financial markets. My goal is to contribute to a dynamic quantitative trading team where I can develop and deploy data-driven strategies, explore market inefficiencies, and continuously learn from ever-evolving market behavior. I’m particularly drawn to the intersection of statistics, machine learning, and real-time decision-making, and I’m eager to grow into a role where research and execution go hand-in-hand.
-
----
 
 ## Hobbies
 
