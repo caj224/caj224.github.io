@@ -47,9 +47,9 @@ Working under the CEO of AlphaCube, Rish and I attempt to uncover inconsistencie
 ## Hobbies
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img class="img-circle" src="https://github.com/caj224/caj224.github.io/raw/master/images/IMG_0766.HEIC" width="25%">
+  <img class="img-circle" src="https://github.com/caj224/caj224.github.io/raw/master/images/IMG_0766.png" width="25%">
   <img class="img-circle" src="https://github.com/caj224/caj224.github.io/raw/master/images/IMG_1051 2.png" width="35%">
-  <img class="img-circle" src="https://github.com/caj224/caj224.github.io/raw/master/images/IMG_1613%202.HEIC" width="25%">
+  <img class="img-circle" src="https://github.com/caj224/caj224.github.io/raw/master/images/IMG_1613%202.png" width="25%">
 </div>
 
 Outside of of school, I like to spend my time thinking strategically and competitively. I've logged over 200 hours in live low-stakes cash games with a win rate above 10 big blinds per hour, backed by focused study and regular correspondence with professionals. In chess, I’ve reached an online peak of 2200 and took 2nd Place in my first ever OTB tournament in Pittsburg. Both games challenge me to make high-quality decisions under pressure—something I enjoy and value in competitive environments like trading. When I'm not using my right brain, I am probably playing jazz trumpet, tending to my saltwater reef aquarium, or watching NBA basketball.
