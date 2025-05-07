@@ -1,6 +1,7 @@
- ---
- layout: wide_default
- ---  
+--- 
+layout: wide_default
+---
+ 
 
 # Summary Section
 
