@@ -10,7 +10,7 @@ I'm Caleb, a Financial Engineering Master's student at Lehigh University. I’m 
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-**[Natural language processing 10-Ks to identify risks](report)**
+**[Natural language processing 10-Ks to identify risks](report/report)**
 
 This project examines how sentiment exhibited in 10-K filings affects stock returns, using web scraping, html cleaning, pandas, matplotlib, and more.
 
