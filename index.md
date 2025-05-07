@@ -48,7 +48,7 @@ Working under the CEO of AlphaCube, Rish and I attempt to uncover inconsistencie
 
 <div style="display: flex; justify-content: center; gap: 20px;">
   <img class="img-circle" src="https://github.com/caj224/caj224.github.io/raw/master/images/IMG_0766.HEIC" width="25%">
-  <img class="img-circle" src="https://github.com/caj224/caj224.github.io/raw/master/images/IMG_1051 2.HEIC" width="35%">
+  <img class="img-circle" src="https://github.com/caj224/caj224.github.io/raw/master/images/IMG_1051 2.png" width="35%">
   <img class="img-circle" src="https://github.com/caj224/caj224.github.io/raw/master/images/IMG_1613%202.HEIC" width="25%">
 </div>
 
